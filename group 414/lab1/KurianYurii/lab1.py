@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 
 my_image = Image.open(
-    'C:/Users/yurka/PycharmProjects/cv-2023/group 414/lab1/KurianYurii/low-contrast.jpg')  # Can be many different formats.
+    'C:/Users/yurka/PycharmProjects/cv-2023/group 414/lab1/KurianYurii/low-contrast.jpg')
 
 
 def rgb_to_gray(image):
